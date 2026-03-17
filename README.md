@@ -4,7 +4,7 @@
 ## Overview
 This research investigates the lexico-phonological advantage in receptive strategies among Catalan-Spanish bilinguals and Spanish monolinguals when processing Occitan-Gascon. The study uses a lexical identification task to measure how linguistic background influences the decoding of non-native Romance varieties.
 
-This project was developed as part of my academic research in Applied Linguistics for the Experimental and Observational Techniques course.
+This project was developed as part of my academic research in Applied Linguistics for the Experimental and Observational Techniques course with Victòria Ferrando (https://github.com/dramaqueenvee) and Oriol Salla.
 
 ## Key Insights
 * **Statistical Validation:** Performed a linear regression analysis ($p < 0.01$) to quantify the advantage of Catalan-Spanish speakers in lexico-phonological decoding.
